@@ -38,4 +38,8 @@ Aplikasi berbasis **Streamlit** untuk memprediksi kemungkinan diabetes pada pasi
 
 ## ▶️ Cara Menjalankan Aplikasi
 
-Dari VS Code/Terminal: streamlit run app.py
+Dari VS Code/Terminal: 
+```
+streamlit run app.py
+```
+
